@@ -1,0 +1,1 @@
+The Games App is an interactive, fun, and useful app created using Angularjs.
